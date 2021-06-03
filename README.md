@@ -1,2 +1,2 @@
-# disaster_tweets
-Kaggle disaster tweets NLP intro submission https://www.kaggle.com/c/nlp-getting-started 
+# Disaster tweets NLP notebook 
+Kaggle disaster tweets NLP intro submission code, https://www.kaggle.com/c/nlp-getting-started 
